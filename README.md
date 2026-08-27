@@ -450,7 +450,7 @@ env.close()
 <img width="366" height="23" alt="Screenshot 2026-08-27 160909" src="https://github.com/user-attachments/assets/b6b9dab1-a023-45c3-a271-0d84baf416c4" />
 
 # Learning Curve for Gamma = 0.1
-<img width="676" height="454" alt="Screenshot 2026-08-27 155130" src="https://github.com/user-attachments/assets/ad9d1785-8fbc-46e9-9997-1cd8c0a03dfe" />
+<img width="676" height="454" alt="Screenshot 2026-08-27 155130" src="https://github.com/user-attachments/assets/ad9d1785-8fbc-46e9-9997-1cd8c0a03dfe" /><br/>
 # Learning Curve for Gamma = 0.001
 <img width="664" height="456" alt="Screenshot 2026-08-27 161109" src="https://github.com/user-attachments/assets/f14e579d-4545-4137-9127-a6867f9be863" />
 
